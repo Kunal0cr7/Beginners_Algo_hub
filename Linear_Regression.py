@@ -1,3 +1,4 @@
+#  Linear Regression
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
@@ -32,3 +33,4 @@ plt.show()
 # Print the model coefficients and intercept
 print("Coefficients:", model.coef_)
 print("Intercept:", model.intercept_)
+
